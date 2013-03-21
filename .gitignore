@@ -1,0 +1,8 @@
+*.class
+/*.zip
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/src/build.xml
