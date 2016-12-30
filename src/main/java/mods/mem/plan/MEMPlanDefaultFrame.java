@@ -1,6 +1,6 @@
 package mods.mem.plan;
 
-public class MEMPlanDefaultFrame {
+public class MEMPlanDefaultFrame implements IMEMPlanBlockInfo {
 
     int color;
     String texture;
