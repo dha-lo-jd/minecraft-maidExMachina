@@ -11,4 +11,5 @@ public interface IMEMAIJob {
     abstract public void suspendTick();
 
     abstract public void endExecute();
+
 }
