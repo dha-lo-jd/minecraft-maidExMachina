@@ -5,9 +5,6 @@ import net.minecraft.world.chunk.Chunk;
 import net.minecraft.world.chunk.IChunkProvider;
 import net.minecraft.world.chunk.storage.IChunkLoader;
 
-/**
- * Created by dhaAsusAdmin on 2017/01/10.
- */
 public class MEMChunkProviderWrapper {
 
     @Override

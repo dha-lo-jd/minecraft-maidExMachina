@@ -1,8 +1,5 @@
 package mods.mem.ai;
 
-/**
- * Created by dhaAsusAdmin on 2017/02/21.
- */
 public interface IMEMAIJob {
     abstract public void startExecute();
 

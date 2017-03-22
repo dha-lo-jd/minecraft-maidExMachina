@@ -8,9 +8,6 @@ import net.minecraft.world.gen.feature.WorldGenerator;
 import scala.collection.immutable.List;
 import scala.util.Random;
 
-/**
- * Created by dhaAsusAdmin on 2017/01/06.
- */
 public class BiomeGenVoid extends BiomeGenBase {
 
     public static final BiomeGenBase VOID = new BiomeGenVoid(

@@ -3,9 +3,6 @@ package mods.mem.build;
 import net.minecraft.nbt.NBTTagCompound;
 import net.minecraft.world.World;
 
-/**
- * Created by dhaAsusAdmin on 2017/01/19.
- */
 public class MEMBuilder {
     public interface IMEMCoreChildPartsFactory {
         String getName();

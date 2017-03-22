@@ -5,9 +5,6 @@ import net.minecraft.util.ChunkCoordinates;
 import net.minecraft.world.World;
 import scala.Double;
 
-/**
- * Created by dhaAsusAdmin on 2017/02/01.
- */
 public class MEMSupport {
     public static Double getAreaHeightFromGround(Set<ChunkCoordinates> area,
                                                  World world, Set<Material> ignoreMaterials) {
